@@ -1,0 +1,8 @@
+
+Paciente No.3
+Nombre del paciente:Juana 23
+Hora del tratamiento (Formato 24 Horas):23
+Nombre de tratamiento:Extraccion de Muelas del juicio y otras piezas bucales
+Descripcion:Procedimiento quirurgico para la extraccion de alguna pieza bucal
+Costo:$900
+Total:2700
